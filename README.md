@@ -16,3 +16,9 @@ Console Version
    ```bash
    git clone https://github.com/<your-username>/hangman-game.git
    cd hangman-game
+
+
+About This Project
+
+This project was created as part of the "100 Days of Code: The Complete Python Pro Bootcamp" by Dr. Angela Yu on Udemy.
+It was developed to practice Python fundamentals, loops, conditionals, and string manipulation in a fun and interactive way.
