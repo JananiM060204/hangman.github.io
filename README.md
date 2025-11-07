@@ -14,7 +14,7 @@ Features
 Console Version
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/hangman-game.git
+   git clone https://github.com/JananiM060204/hangman-game.git
    cd hangman-game
 
 
